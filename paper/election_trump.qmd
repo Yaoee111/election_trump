@@ -3,7 +3,7 @@ title: "Tracking Trends in Trump’s Support: A Statistical Analysis of Polling 
 subtitle: "Examining Daily Increases in Support and the Influence of Polling Methods on Results"
 author: 
   - Yiyi Yao
-thanks: "Code and data are available at: https://github.com/Yaoee111/Election."
+thanks: "Code and data are available at: https://github.com/Yaoee111/election_trump."
 date: 01 November 2024
 date-format: long
 abstract: "This paper analyzes polling data to predict support trends for Donald Trump in the U.S. presidential election. Using statistical models, we examined how Trump’s support shifted over time and varied between different pollsters. Our findings show a slight daily increase in support, along with significant differences in poll results based on pollster methods and sampling. This study highlights the complexities in interpreting polling data, offering insights that can help voters and analysts understand public sentiment more accurately and avoid potential biases in election predictions."
